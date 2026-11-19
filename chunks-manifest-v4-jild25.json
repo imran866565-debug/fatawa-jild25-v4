@@ -1,0 +1,142 @@
+{
+ "chunks": [
+  {
+   "chunk": "01",
+   "description": "Jild 25, pp. 5-106",
+   "end_page": 106,
+   "file": "jild-25-chunk-01.json",
+   "items": 25,
+   "pages_present": 59,
+   "start_page": 5,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 25 items, pp.5-106, ids/titles/pages == v3, vol 37, 1 empty sawal, 0 empty jawab, notes 41 vs v3 41, glosses 307x 'کا مطلب' + 1x 'کہتے ہیں', 76 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds pesh-lafz (sawal empty by design). pp.5-106. SHA 4a37130f…."
+  },
+  {
+   "chunk": "02",
+   "description": "Jild 25, pp. 107-160",
+   "end_page": 160,
+   "file": "jild-25-chunk-02.json",
+   "items": 1,
+   "pages_present": 54,
+   "start_page": 107,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 1 items, pp.107-160, ids/titles/pages == v3, vol 37, 0 empty sawal, 0 empty jawab, notes 7 vs v3 6, glosses 206x 'کا مطلب' + 4x 'کہتے ہیں', 54 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. ONE item only: masala-25 head [107-160] (sawal 1331ch, jawab 54,698ch). Notes 7 vs v3 6 (+1: v4 audit note — harsh words لعنتی/جہنمی/کذاب/خبیث absent from these pages; 'کتا' glimpse is part of the book's own word). SHA cef38b31…."
+  },
+  {
+   "chunk": "03",
+   "description": "Jild 25, pp. 161-216",
+   "end_page": 216,
+   "file": "jild-25-chunk-03.json",
+   "items": 15,
+   "pages_present": 56,
+   "start_page": 161,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 15 items, pp.161-216, ids/titles/pages == v3, vol 37, 1 empty sawal, 0 empty jawab, notes 5 vs v3 5, glosses 278x 'کا مطلب' + 6x 'کہتے ہیں', 69 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the masala-25 tail [161-203] (sawal empty). pp.161-216. SHA e8d7188a…."
+  },
+  {
+   "chunk": "04",
+   "description": "Jild 25, pp. 217-259",
+   "end_page": 259,
+   "file": "jild-25-chunk-04.json",
+   "items": 21,
+   "pages_present": 43,
+   "start_page": 217,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 21 items, pp.217-259, ids/titles/pages == v3, vol 37, 0 empty sawal, 0 empty jawab, notes 42 vs v3 42, glosses 308x 'کا مطلب' + 1x 'کہتے ہیں', 62 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. pp.217-259. SHA dd072ed0…."
+  },
+  {
+   "chunk": "05",
+   "description": "Jild 25, pp. 260-303",
+   "end_page": 303,
+   "file": "jild-25-chunk-05.json",
+   "items": 26,
+   "pages_present": 44,
+   "start_page": 260,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 26 items, pp.260-303, ids/titles/pages == v3, vol 37, 0 empty sawal, 0 empty jawab, notes 31 vs v3 30, glosses 413x 'کا مطلب' + 6x 'کہتے ہیں', 65 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Notes 31 vs v3 30 (+1: masala-68 sanad note added; masala-67 and masala-80-83 notes reworded with gloss detail). pp.260-303. SHA 49364084…."
+  },
+  {
+   "chunk": "06",
+   "description": "Jild 25, pp. 305-356",
+   "end_page": 356,
+   "file": "jild-25-chunk-06.json",
+   "items": 12,
+   "pages_present": 52,
+   "start_page": 305,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 12 items, pp.305-356, ids/titles/pages == v3, vol 37, 1 empty sawal, 0 empty jawab, notes 31 vs v3 31, glosses 40x 'کا مطلب' + 17x 'کہتے ہیں', 62 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds kitab-al-wasaya (sawal empty by design) and the masala-113 head [354-356]. pp.305-356 (p.304 absent in source). SHA cbbb48f8…."
+  },
+  {
+   "chunk": "07",
+   "description": "Jild 25, pp. 357-400",
+   "end_page": 400,
+   "file": "jild-25-chunk-07.json",
+   "items": 22,
+   "pages_present": 44,
+   "start_page": 357,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 22 items, pp.357-400, ids/titles/pages == v3, vol 37, 3 empty sawal, 0 empty jawab, notes 31 vs v3 31, glosses 176x 'کا مطلب' + 2x 'کہتے ہیں', 63 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the masala-113 tail [357] (sawal empty); masala-126 and masala-129 sawals empty as in v3. pp.357-400. SHA e12c0027…."
+  },
+  {
+   "chunk": "08",
+   "description": "Jild 25, pp. 403-458",
+   "end_page": 458,
+   "file": "jild-25-chunk-08.json",
+   "items": 9,
+   "pages_present": 56,
+   "start_page": 403,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 9 items, pp.403-458, ids/titles/pages == v3, vol 37, 0 empty sawal, 1 empty jawab, notes 12 vs v3 12, glosses 87x 'کا مطلب' + 4x 'کہتے ہیں', 63 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds masala-139a (jawab EMPTY as in v3/source) and the masala-142 head [457-458]. pp.403-458 (pp.401-402 absent in source). SHA 497300f9…."
+  },
+  {
+   "chunk": "09",
+   "description": "Jild 25, pp. 459-502",
+   "end_page": 502,
+   "file": "jild-25-chunk-09.json",
+   "items": 15,
+   "pages_present": 44,
+   "start_page": 459,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 15 items, pp.459-502, ids/titles/pages == v3, vol 37, 1 empty sawal, 1 empty jawab, notes 35 vs v3 35, glosses 148x 'کا مطلب' + 5x 'کہتے ہیں', 55 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the masala-142 tail [459] (sawal empty) and the masala-157 head [502] (sawal 1491ch, jawab EMPTY — jawab is on p.503, chunk 10). pp.459-502. SHA 6ed99d3d…."
+  },
+  {
+   "chunk": "10",
+   "description": "Jild 25, pp. 503-543",
+   "end_page": 543,
+   "file": "jild-25-chunk-10.json",
+   "items": 2,
+   "pages_present": 41,
+   "start_page": 503,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 2 items, pp.503-543, ids/titles/pages == v3, vol 37, 1 empty sawal, 0 empty jawab, notes 9 vs v3 8, glosses 181x 'کا مطلب' + 3x 'کہتے ہیں', 42 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. TWO items only: masala-157 tail [503] (sawal empty, jawab 2683ch) and masala-158 head [503-543] (sawal 66,069ch, jawab 3562ch). Notes 9 vs v3 8 (+1: v4 note — wasiyat date «۲۳ فروری ۱۳۱۱ھ» and widow's name «عالمون» variant as printed in source). SHA fe17998a…."
+  },
+  {
+   "chunk": "11",
+   "description": "Jild 25, pp. 544-600",
+   "end_page": 600,
+   "file": "jild-25-chunk-11.json",
+   "items": 1,
+   "pages_present": 57,
+   "start_page": 544,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 1 items, pp.544-600, ids/titles/pages == v3, vol 37, 1 empty sawal, 0 empty jawab, notes 7 vs v3 6, glosses 7x 'کا مطلب' + 60x 'کہتے ہیں', 57 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. ONE item only: masala-158 tail [544-600] (sawal empty, jawab 84,503ch). Notes 7 vs v3 6 (+1: v4 note — faida numbering jumps from 12th to 14th, no 13th faida by name; numbering kept as original). SHA 35a42458…."
+  },
+  {
+   "chunk": "12",
+   "description": "Jild 25, pp. 601-658",
+   "end_page": 658,
+   "file": "jild-25-chunk-12.json",
+   "items": 42,
+   "pages_present": 58,
+   "start_page": 601,
+   "status": "done",
+   "verified": "2026-11-19 ~07:30 PKT — coordinator verified: 42 items, pp.601-658, ids/titles/pages == v3, vol 37, 18 empty sawal, 0 empty jawab, notes 5 vs v3 5, glosses 359x 'کا مطلب' + 4x 'کہتے ہیں', 94 page-list entries (boundary pages shared between items by design), A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the 18 masala-158 sub-items (faida-14 ... hukm-akheer, all sawals empty) folded into masala-158 at merge. pp.601-658. SHA eab90180…."
+  }
+ ],
+ "total_pages_present": 608,
+ "total_unique_pages": 608,
+ "volume": "Jild 25",
+ "volume_ids": [
+  37
+ ]
+}
